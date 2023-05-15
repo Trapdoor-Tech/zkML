@@ -1,0 +1,7 @@
+1. Our project is an online trading system aiming to trade ETH/USDT.
+
+2. Our model is used to predicate the ETH price to determine BUY/SELL operations.
+
+3. We use ZeroKnowledge Proof to protect the high accurate model(maybe say 99%), and 
+   show the predication used by decisions actually produced by the claimed high accurate
+   model.
